@@ -18,3 +18,25 @@ Tipuri de link-uri in markdown
 
 Textul linkului (www.google.com)
 
+**Variante**
+
+[Textul linkului] (www.google.com)
+
+#### Linkuri referentiate
+
+Uite un [link][link] catre site ul google
+[link1]: https//:
+
+Uite un link [Important]
+
+[Important] https://google.com/
+
+
+#### Linkuri catre imagini
+
+![text.descriptiv.imagine1](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954&width=1100)
+
+
+
+
+
