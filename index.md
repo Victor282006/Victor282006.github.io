@@ -4,6 +4,8 @@
 
 [elemente avansate de markdwown](avansate.md)
 
+[formule cu mathjax](Mathjax.md)
+
 ***
 
 # Implementarea relatiilor in Markdown
