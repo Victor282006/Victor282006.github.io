@@ -1,2 +1,2 @@
-[homepage(index.md)]
+[homepage](index.md)
 
