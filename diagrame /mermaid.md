@@ -14,5 +14,6 @@ A(Anul I) --> B(Anul II)
 
 ```mermaid
 flowchart LR
-A[/Anul I/] --> B[\Anul II\]
+A[/Anul I/] -->|tranzitie usuoara| B[\Anul II\]
+A -.-> |tranzitie grea|C[\Anul IV/]
 ```
