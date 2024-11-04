@@ -4,6 +4,7 @@
 
 # Scrierea matricelor
 
+
 $$
 \begin{bmatrix}
 a_{11} & a_{12} & a_{13} \\
@@ -33,4 +34,22 @@ $$
 -`{vmatrix}`
 -`{Vmatrix}`
 
+# Scrierea sistemelor de ecuatii
 
+$$
+\begin{align}
+f(x) &= ax^2 \\
+g(x) &= ax^2 + bx + c \\
+\end{align}
+$$
+
+```Latex
+
+$$
+\begin{align}
+f(x) &=ax^2 \\
+g(x) &=ax^2 + bx + c \\
+\end{align}
+
+
+$$.
