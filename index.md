@@ -6,7 +6,9 @@
 
 
 [formule cu mathjax](Mathjax.md)
+
 [Matrice si ecuatii cu Mathjax]{mathjax2.md}
+
 [Diagrame.Mermaid]{mermaid.md}
 
 ***
